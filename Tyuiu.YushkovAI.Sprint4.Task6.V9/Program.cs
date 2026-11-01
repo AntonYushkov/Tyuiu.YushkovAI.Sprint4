@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task6.V9
             Console.WriteLine("* Тема: Класс Array                                                       *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #9                                                              *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан строковый массив с названиями семи цветов.                          *");

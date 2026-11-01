@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task4.V19
             Console.WriteLine("* Тема: Двумерные массивы (ввод с клавиатуры)                             *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #19                                                             *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Ввести матрицу 5 на 5 с целыми значениями от 1 до 7.                    *");

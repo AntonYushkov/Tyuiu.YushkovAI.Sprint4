@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task2.V26
             Console.WriteLine("* Тема: Одномерные массивы (случайные числа)                              *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #26                                                             *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Массив из 14 целых чисел заполнить случайными значениями от 1 до 8.     *");

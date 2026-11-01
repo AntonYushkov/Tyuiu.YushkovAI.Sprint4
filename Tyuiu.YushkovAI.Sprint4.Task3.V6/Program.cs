@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task3.V6
             Console.WriteLine("* Тема: Двумерные массивы (статический ввод)                              *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дана матрица 5 на 5 с целыми значениями от 3 до 8.                      *");

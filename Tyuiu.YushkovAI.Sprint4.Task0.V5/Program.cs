@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task0.V5
             Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан массив из 10 целых чисел в диапазоне от 0 до 9.                     *");

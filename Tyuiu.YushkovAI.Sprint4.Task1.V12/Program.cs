@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task1.V12
             Console.WriteLine("* Тема: Одномерные массивы (ввод с клавиатуры)                            *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #12                                                             *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Ввести 13 целых чисел в диапазоне от 4 до 9.                            *");

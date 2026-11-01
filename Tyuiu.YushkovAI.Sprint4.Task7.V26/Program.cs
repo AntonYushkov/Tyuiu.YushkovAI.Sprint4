@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task7.V26
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #26                                                             *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дана строка из одноразрядных цифр \"351268459614723\".                    *");

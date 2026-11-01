@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint4.Task5.V6
             Console.WriteLine("* Тема: Двумерные массивы (случайные числа)                               *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Матрицу 5 на 5 заполнить случайными числами от -3 до 5.                 *");
